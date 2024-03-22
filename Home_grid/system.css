@@ -1,0 +1,296 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.bcit-cards {
+  border-radius: 0px;
+}
+
+.bcit-card {
+  border: 0px;
+}
+
+.rectangle-box {
+
+  background-color: #ffff;
+  border: 3px solid #887973;
+  text-align: center;
+  margin: 0 auto;
+  position: relative;
+}
+
+.box-content {
+  position: relative;
+  top: 50%;
+  /* transform: translateY(-10%); */
+  color: #887973;
+  line-height: 0px;
+}
+
+hr.solid {
+  border-top: 3px solid #887973;
+  position: relative;
+}
+
+.solid-1 {
+  border-top: 3px solid #ffff;
+}
+
+.bcit-diveder {
+  margin-top: -50px;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #887973;
+}
+
+.bcit-list {
+  font-size: 30px;
+  line-height: 40px;
+
+}
+
+.bcit-text {
+  font-size: 19px;
+  line-height: 30px;
+  text-align: center;
+  font-weight: 500;
+  color: rgb(67, 67, 67);
+}
+
+p {
+  padding-top: 18px;
+}
+
+.bcit-text-1 {
+  font-size: 19px;
+  line-height: 30px;
+  font-weight: 410;
+  color: rgb(67, 67, 67);
+}
+
+.bcit-margin {
+  transform: translateY(50%);
+}
+.font{
+  font-size: 25pt;
+}
+
+.hello {
+  position: relative;
+  z-index: -1;
+}
+
+
+
+
+.bcit-container {
+  position: relative;
+  top: -70px;
+}
+
+/* Media query for medium screens */
+@media screen and (max-width: 992px) {
+  .bcit-container {
+    top: 0;
+    margin-top: 20px;
+
+  }
+}
+
+/* Media query for small screens */
+@media screen and (max-width: 768px) {
+  .bcit-container {
+    top: 0;
+    margin-top: 20px;
+  }
+}
+
+
+.bcit-zoek{
+  background-color: #958180;
+  font-size:18pt;
+}
+#carsousel{
+align-items: flex-end;
+bottom: 50%;
+}
+#carsousel-1{
+  align-items: flex-start;
+  top: 50%;
+  }
+.bcit-bg {
+  background-color: #958180;
+  font-size: 14px;
+}
+
+.bcit-bg-1 {
+  font-size: 13px;
+}
+
+.bcirt-text-2 {
+  font-size: 50px;
+}
+
+.search {
+  margin-left: -30;
+}
+
+.bcit-box {
+  /* border: 2px solid #ffff; */
+  background-color: #5892aa;
+
+}
+
+.bcit-button {
+  border-left: 2px #ffff;
+  border: 0px;
+  border-radius: 0px;
+}
+
+.bcit-button-2 {
+  border-left: 2px sold #ffff;
+}
+
+.bcit-overlay {
+  margin-left: -27px;
+
+}
+
+.bcit-block {
+  display: inline-block;
+}
+
+.mypage {
+  background-color: #958180;
+}
+
+.bcit-container-fluid {
+  background-color: #887973;
+}
+
+.bg-color {
+  background-color: #958180;
+
+}
+
+.vl {
+  border-left: 2px solid #ffff;
+  height: 40px;
+}
+
+.class {
+  border: 0px;
+  border-radius: 0px;
+}
+
+footer {
+  font-size: 14px;
+  /* font-weight: lighter; */
+}
+
+.bcit-footer {
+  font-size: 22px;
+}
+
+.bcit-top {
+  position: relative;
+  top: -95px;
+}
+
+.bcit-class-2 {
+  font-size: 25px;
+  background-color: #958180;
+  position: relative;
+  bottom: 120px;
+}
+
+.bcit-class-3 {
+  font-size: 20px;
+  background-color: #958180;
+  position: absolute;
+  bottom: 60px;
+  left: 0px;
+  margin-left: 12px;
+  z-index: 1;
+}
+
+.bcit-class-4 {
+  font-size: 17px;
+  background-color: #5892aa;
+  position: absolute;
+  bottom: 10px;
+  left: 15px;
+  z-index: 1;
+}
+
+.bcit-class-5 {
+  font-size: 20px;
+  background-color: #958180;
+  top: -80px;
+  position: relative;
+}
+
+.bcit-class-6 {
+  font-size: 17px;
+  background-color: #5892aa;
+  position: relative;
+  bottom: 60px;
+  left: -350px;
+  /* right: 530px;   */
+  z-index: 1;
+}
+
+.bcit-bg-color {
+  background-color: rgba(25, 19, 15, 0.589);
+  font-size: 20px;
+  position: fixed;
+  top: -10px;
+  z-index: 2;
+}
+
+.bcit-font {
+  font-size: 15px;
+}
+
+.bcit-img {
+  color: rgba(91, 81, 75, 0.733);
+}
+.headlam{
+  width: 209px;
+  height: 48px;
+  opacity: 100%;
+}
+.solid{
+  border: 2px solid #ffff;
+  padding: 0px;
+}
+.bcit-font-size{
+  font-size: 25px;
+}
+
+button.bcit-hero {
+  top: 50%;
+  bottom: auto;
+  margin-top: -16px;
+}
+button.carousel-control-next.bcit-hero {
+justify-content: flex-end;
+}
+button.carousel-control-prev.bcit-hero {
+  justify-content: flex-start;
+  }
+  @media screen and (max-width: 991px) {
+    .bcit-herro-page{
+      max-width: 100%;
+  
+    }
+  }
